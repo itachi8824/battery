@@ -1,0 +1,38 @@
+.bat{
+    width:300px;
+    height: 100px;
+    background-color: #fdd663;
+    margin: 100px;
+    position: relative;
+    border-radius: 10px;
+}
+.two{
+    height: 80px;
+    background-color: #000;
+    position:absolute;
+    top: 74px;
+    left: 9px;
+    border-radius: 10px;
+}
+.three{
+    width: 50px;
+    height: 154px;
+    background-color:cadetblue;
+    position: absolute;
+    top: 0px;
+    left: 2px;
+    border-radius: 10px;
+}
+.four{
+    width: 60px;
+    height: 50px;
+    background-color:brown;
+    left: 299px;
+    top: -146px;
+    border-radius: 5px;
+}
+.three:hover{
+
+width:15%;
+    transition: 2s;
+}
